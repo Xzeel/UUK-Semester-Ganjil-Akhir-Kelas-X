@@ -1,0 +1,62 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Files built by Visual Studio
+*.dll
+*.exe
+*.pdb
+*.user
+*.aps
+*.ilk
+*.iobj
+*.meta
+*.tlog
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio 2015+ cache/options
+.vs/
+*.VC.VC.opendb
+
+# User-specific files
+*.userprefs
+*.suo
+*.user
+
+# Local .vs config
+.vs/
+
+# Database files
+*.db
+*.mdf
+*.ldf
+*.sdf
+
+# Private config files
+appsettings.Production.json
+appsettings.Development.json
+*.config
+
+# Logs
+*.log
+
+# Environment-specific files
+.env
+*.env
