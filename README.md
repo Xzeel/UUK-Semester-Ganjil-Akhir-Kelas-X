@@ -10,4 +10,4 @@ This is a competency unit assessment project, also known as “UUK.” The proje
 - [XzeelArcadia](https://xzeelarcadia.carrd.co)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Xzeel/UUK-Semester-Ganjil-Akhir-Kelas-X/blob/main/LICENSE)
